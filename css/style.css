@@ -1,0 +1,16 @@
+body{
+    background-color: #cbeaed;
+}
+h1{
+    color:#394989 ;
+}
+h2{
+    color:#394989 ;
+}
+hr{
+    background-color: darkcyan;
+    border-style: none;
+    border-top: dotted;
+    border-width: 2px;
+    width: 60%;
+}
